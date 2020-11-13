@@ -1,0 +1,59 @@
+Type 0	BEGIN
+Type 2	STRING:	123#
+Type 2	STRING:	763@Ffg
+Type 2	STRING:	ethtg
+Type 2	STRING:	TCGD5
+Type 2	STRING:	RT5
+Type 1	NUMBER:	765
+Type 2	STRING:	thd5
+Type 2	STRING:	9051@!
+Type 2	STRING:	hs
+Type 1	NUMBER:	7
+Type 2	STRING:	#@##@3
+Type 1	NUMBER:	85
+Type 1	NUMBER:	754444444444444444444444444444444444
+Type 1	NUMBER:	8888888
+Type 2	STRING:	$%^^
+Type 2	STRING:	'777
+Type 2	STRING:	r
+Type 1	NUMBER:	35
+Type 1	NUMBER:	98
+Type 1	NUMBER:	98
+Type 2	STRING:	aq
+Type 1	NUMBER:	32
+Type 2	STRING:	'
+Type 3	END
+
+Type 0	BEGIN
+Type 3	END
+Type 3	END
+
+Type 3	END
+
+Type 1	NUMBER:	0
+Type 1	NUMBER:	1
+Type 2	STRING:	-1
+Type 1	NUMBER:	23
+Type 2	STRING:	hdcgeyhty
+Type 2	STRING:	tyrfugj
+Type 2	STRING:	rt4367
+Type 1	NUMBER:	78874
+Type 2	STRING:	ytr6
+Type 1	NUMBER:	537
+Type 2	STRING:	;
+Type 2	STRING:	)
+Type 2	STRING:	oy
+
+Type 1	NUMBER:	0
+Type 1	NUMBER:	1
+Type 2	STRING:	-1
+Type 1	NUMBER:	23
+Type 2	STRING:	hdcgeyhty
+Type 2	STRING:	tyrfugj
+Type 2	STRING:	rt4367
+Type 1	NUMBER:	78874
+Type 2	STRING:	ytr6
+Type 1	NUMBER:	537
+Type 2	STRING:	;
+Type 2	STRING:	)
+Type 2	STRING:	oy

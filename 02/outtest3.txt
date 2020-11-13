@@ -1,0 +1,393 @@
+Type 0	BEGIN
+Type 3	END
+Type 3	END
+Type 0	BEGIN
+Type 1	NUMBER:	1
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	2
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	3
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	4
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	5
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	6
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	7
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	8
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	9
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	10
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	11
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	12
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	13
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	14
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	15
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	16
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	17
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	18
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	19
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	20
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	21
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	22
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	23
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	24
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	25
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	26
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	27
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	28
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	29
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	30
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	31
+Type 2	STRING:	
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	32
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	33
+Type 2	STRING:	!
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	34
+Type 2	STRING:	"
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	35
+Type 2	STRING:	#
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	36
+Type 2	STRING:	$
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	37
+Type 2	STRING:	%
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	38
+Type 2	STRING:	&
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	39
+Type 2	STRING:	'
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	40
+Type 2	STRING:	(
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	41
+Type 2	STRING:	)
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	42
+Type 2	STRING:	*
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	43
+Type 2	STRING:	+
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	44
+Type 2	STRING:	,
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	45
+Type 2	STRING:	-
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	46
+Type 2	STRING:	.
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	47
+Type 2	STRING:	/
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	48
+Type 1	NUMBER:	0
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	49
+Type 1	NUMBER:	1
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	50
+Type 1	NUMBER:	2
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	51
+Type 1	NUMBER:	3
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	52
+Type 1	NUMBER:	4
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	53
+Type 1	NUMBER:	5
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	54
+Type 1	NUMBER:	6
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	55
+Type 1	NUMBER:	7
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	56
+Type 1	NUMBER:	8
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	57
+Type 1	NUMBER:	9
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	58
+Type 2	STRING:	:
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	59
+Type 2	STRING:	;
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	60
+Type 2	STRING:	<
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	61
+Type 2	STRING:	=
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	62
+Type 2	STRING:	>
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	63
+Type 2	STRING:	?
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	64
+Type 2	STRING:	@
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	65
+Type 2	STRING:	A
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	66
+Type 2	STRING:	B
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	67
+Type 2	STRING:	C
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	68
+Type 2	STRING:	D
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	69
+Type 2	STRING:	E
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	70
+Type 2	STRING:	F
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	71
+Type 2	STRING:	G
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	72
+Type 2	STRING:	H
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	73
+Type 2	STRING:	I
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	74
+Type 2	STRING:	J
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	75
+Type 2	STRING:	K
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	76
+Type 2	STRING:	L
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	77
+Type 2	STRING:	M
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	78
+Type 2	STRING:	N
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	79
+Type 2	STRING:	O
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	80
+Type 2	STRING:	P
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	81
+Type 2	STRING:	Q
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	82
+Type 2	STRING:	R
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	83
+Type 2	STRING:	S
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	84
+Type 2	STRING:	T
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	85
+Type 2	STRING:	U
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	86
+Type 2	STRING:	V
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	87
+Type 2	STRING:	W
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	88
+Type 2	STRING:	X
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	89
+Type 2	STRING:	Y
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	90
+Type 2	STRING:	Z
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	91
+Type 2	STRING:	[
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	92
+Type 2	STRING:	\
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	93
+Type 2	STRING:	]
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	94
+Type 2	STRING:	^
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	95
+Type 2	STRING:	_
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	96
+Type 2	STRING:	`
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	97
+Type 2	STRING:	a
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	98
+Type 2	STRING:	b
+Type 2	STRING:	8h
+Type 0	BEGIN
+Type 1	NUMBER:	99
+Type 2	STRING:	c
+Type 2	STRING:	8h

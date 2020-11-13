@@ -1,0 +1,11 @@
+Type 0	BEGIN
+Type 1	NUMBER:	123
+Type 2	STRING:	jt
+Type 2	STRING:	7676f
+Type 1	NUMBER:	87
+Type 1	NUMBER:	8
+Type 1	NUMBER:	4
+Type 1	NUMBER:	2
+Type 2	STRING:	asd
+Type 1	NUMBER:	1234
+Type 3	END
