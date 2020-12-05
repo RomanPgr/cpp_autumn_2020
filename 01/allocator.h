@@ -1,5 +1,5 @@
-#ifndef ALLOCATOR
-#define ALLOCATOR
+#ifndef ALLOCATOR_H
+#define ALLOCATOR_H
 #include <cstddef>
 
 class Allocator{
