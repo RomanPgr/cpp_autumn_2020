@@ -1,3 +1,5 @@
+#ifndef PARSER_H
+#define PARSER_H
 #include <string>
 
 enum Tokens{
@@ -34,3 +36,4 @@ private:
     void* (*CallbackTokenHandler[Tokens::END + 1])(Tokens type_token, 
           std::string cur_lex);
 };
+#endif

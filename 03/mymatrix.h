@@ -1,3 +1,5 @@
+#ifndef MYMATRIX_H
+#define MYMATRIX_H
 #include <cstring>
 #include <iostream>
 
@@ -83,3 +85,5 @@ private:
     MyMatrixLine* proxy;
     int* data;
 };
+
+#endif
