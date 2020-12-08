@@ -15,9 +15,9 @@ main.o: main.cpp
 	$(CC) $(CFLAGS) $(CLINK) main.cpp -o main.o
 	
 clean:
-	rm -f *.o
+	rm -f *.o test? output.txt
 	
-test:
+test: allocator.o
 	$(CC) $(CFLAGS) test1.cpp allocator.o -o test1
 	./test1 > output.txt
 	if diff output.txt outtest1.txt >> /dev/null ; then echo "Test 1 succed\n" ; else echo "Test 1 failed\n" ; fi
