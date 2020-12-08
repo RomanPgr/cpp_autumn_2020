@@ -1,7 +1,7 @@
 1 Error: Incorrect use of parentheses in the format string, character 1
 2 Error: Incorrect use of parentheses in the format string, character 1
 3 Error: Incorrect use of parentheses in the format string, character 2
-4 Error: Invalid parameter number you requested 0, available 0--2
+4 Error: Invalid parameter number you requested 0, available 0--1
 5 Error: Invalid parameter number you requested 11, available 0-10
 6 Error: Invalid parameter number you requested 1000000, available 0-0
 7 Error: Incorrect use of parentheses in the format string, character 11

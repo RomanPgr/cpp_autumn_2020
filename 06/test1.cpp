@@ -1,9 +1,5 @@
 #include <iostream>
-#include <vector>
-#include <cctype>
 #include <string>
-#include <sstream>
-#include <stdexcept>
 #include "format.h"
 
 int main(void)
@@ -21,10 +17,10 @@ int main(void)
         std::cout << format("sdbhtrdt") << std::endl;
         std::cout << format("") << std::endl;
     }
-    catch(exception_parantheses& e){
+    catch(const exception_parantheses& e){
         std::cout << "Ошибка: " << e.what() << std::endl;
     }
-    catch(out_of_range_param& e){
+    catch(const out_of_range_param& e){
         std::cout << "Ошибка: " << e.what() << std::endl;
     }
     
